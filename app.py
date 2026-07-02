@@ -101,7 +101,7 @@ if st.button("🌾 Recommend Fertilizer"):
             ]],
             columns=[
                 "Temparature",
-                "Humidity",
+                "Humidity ",
                 "Moisture",
                 "Soil Type",
                 "Crop Type",
