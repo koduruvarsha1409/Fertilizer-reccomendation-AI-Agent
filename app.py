@@ -115,7 +115,7 @@ if st.button("🌾 Recommend Fertilizer"):
         # Debug Information
         # -----------------------------
         st.subheader("Input Data")
-        st.dataframe(input_data)
+        
 
         st.write("Column Names:")
         st.write(input_data.columns.tolist())
