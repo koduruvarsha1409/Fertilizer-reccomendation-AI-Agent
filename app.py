@@ -118,7 +118,7 @@ if st.button("🌾 Recommend Fertilizer"):
         
 
         st.write("Column Names:")
-        st.write(input_data.columns.tolist())
+        
 
         # -----------------------------
         # Prediction
